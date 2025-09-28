@@ -1,0 +1,20 @@
+[
+  {
+    "invoice_id": "INV-013",
+    "customer_name": "ГорСтрой",
+    "item_name": "Цемент М500",
+    "quantity": 50,
+    "price": 620.0,
+    "amount": 31000.0,
+    "date": "2024-11-01"
+  },
+  {
+    "invoice_id": "INV-014",
+    "customer_name": "ТехноСтрой",
+    "item_name": "Щебень фр.20-40",
+    "quantity": 25,
+    "price": 850.0,
+    "amount": 21250.0,
+    "date": "2024-11-05"
+  }
+]

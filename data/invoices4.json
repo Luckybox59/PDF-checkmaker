@@ -1,0 +1,29 @@
+[
+  {
+    "invoice_id": "INV-017",
+    "customer_name": "ГорСтрой",
+    "item_name": "Кирпич облицовочный",
+    "quantity": 300,
+    "price": 40.0,
+    "amount": 12000.0,
+    "date": "2025-01-05"
+  },
+  {
+    "invoice_id": "INV-018",
+    "customer_name": "ТехноСтрой",
+    "item_name": "Арматура A600",
+    "quantity": 20,
+    "price": 1700.0,
+    "amount": 34000.0,
+    "date": "2025-01-12"
+  },
+  {
+    "invoice_id": "INV-019",
+    "customer_name": "ДомСтрой",
+    "item_name": "Бетон М400",
+    "quantity": 15,
+    "price": 2900.0,
+    "amount": 43500.0,
+    "date": "2025-01-20"
+  }
+]

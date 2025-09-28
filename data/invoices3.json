@@ -1,0 +1,20 @@
+[
+  {
+    "invoice_id": "INV-015",
+    "customer_name": "ДомСтрой",
+    "item_name": "Песок речной",
+    "quantity": 40,
+    "price": 350.0,
+    "amount": 14000.0,
+    "date": "2024-12-01"
+  },
+  {
+    "invoice_id": "INV-016",
+    "customer_name": "СтройИнвест",
+    "item_name": "Плита П-40",
+    "quantity": 6,
+    "price": 9000.0,
+    "amount": 54000.0,
+    "date": "2024-12-10"
+  }
+]
